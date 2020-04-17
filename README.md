@@ -1,8 +1,8 @@
-# NPTEL---Programming-in-C-
+## NPTEL-Programming-in-C++-
 
 These codes are for Programming in C++ 
 
-COURSE LAYOUT
+#COURSE LAYOUT
 
 WEEK 1: Programming in C++ is Fun : Build and execute a C program in C++, Write equivalent programs in C++ 
 
@@ -25,4 +25,4 @@ WEEK 8: Templates & STL – Function and Class templates and using STL like cont
 
 
 
-Time - January to March 2020
+###Time - January to March 2020
